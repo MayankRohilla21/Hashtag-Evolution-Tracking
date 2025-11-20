@@ -1,4 +1,4 @@
-Hashtag Evolution Tracker (Reddit-Based)
+**Hashtag Evolution Tracker (Reddit-Based)**
 
 This project analyzes how the meaning of a hashtag evolves over time on Reddit and recommends more stable, semantically similar alternatives. Marketers, researchers, and trend analysts can use this tool to avoid hashtags whose meaning becomes volatile due to political events, cultural shifts, or online discourse.
 
